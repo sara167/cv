@@ -1,6 +1,8 @@
 ## Sara Al Shamsi
 *CS Student at UAEU | Intern @ Microsoft | based in Al Ain, UAE*
 
+[Email](sarakhaledalshamisi@gmail.com) / [LinkedIn](www.linkedin.com/in/sara-alshamsi) /[GitHub](https://github.com/sara167)
+
 ```markdown
 Syntax highlighted code block
 
