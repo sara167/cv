@@ -8,6 +8,14 @@ An ambitious senior computer science student who is passionate about app develop
 
 # Experience
 
+## Business Manager Intern @ [Microsoft](https://www.microsoft.com/ar-gulf/)  *(Jan 2022 - Present)*
+
+## IT Intern @ [LuLu International Exchange](https://luluexchange.com/)  *(Feb 2021 - Present)*
+- Designed the UI of a bill managament & payment.
+- Redesigned YO2 Platform.
+- Used: Figma
+
+
 
 ```markdown
 Syntax highlighted code block
