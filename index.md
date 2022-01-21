@@ -1,11 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/sara167/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
+## Sara Al Shamsi
+CS Student at UAEU | Intern @ Microsoft | based in Al Ain, UAE
 
 ```markdown
 Syntax highlighted code block
