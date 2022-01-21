@@ -1,7 +1,13 @@
 ## Sara Al Shamsi
 *CS Student at UAEU | Intern @ Microsoft | based in Al Ain, UAE*
 
-[Email](sarakhaledalshamisi@gmail.com) / [LinkedIn](www.linkedin.com/in/sara-alshamsi) /[GitHub](https://github.com/sara167)
+[Email](sarakhaledalshamisi@gmail.com) / [LinkedIn](https://linkedin.com/in/sara-alshamsi) /[GitHub](https://github.com/sara167)
+
+# About 
+An ambitious senior computer science student who is passionate about app development and UI design. 
+
+# Experience
+
 
 ```markdown
 Syntax highlighted code block
