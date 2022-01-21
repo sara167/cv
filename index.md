@@ -15,6 +15,7 @@ An ambitious senior computer science student who is passionate about app develop
 - Redesigned YO2 Platform.
 - Used: Figma
 
+Future of Learning Accelerator Bootcamp Participant @ [Future of Work Lab](https://www.futureofworklab.co/)
 
 
 ```markdown
