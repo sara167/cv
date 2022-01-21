@@ -1,5 +1,5 @@
 ## Sara Al Shamsi
-CS Student at UAEU | Intern @ Microsoft | based in Al Ain, UAE
+*CS Student at UAEU | Intern @ Microsoft | based in Al Ain, UAE*
 
 ```markdown
 Syntax highlighted code block
