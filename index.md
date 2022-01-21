@@ -1,12 +1,12 @@
 ## Sara Al Shamsi
-*CS Student at UAEU | Intern @ Microsoft | based in Al Ain, UAE*
+*CS Student at UAEU | Intern @ Microsoft | 📍 based in Al Ain, UAE*
 
 [Email](https://sarakhaledalshamisi@gmail.com) / [LinkedIn](https://linkedin.com/in/sara-alshamsi) /[GitHub](https://github.com/sara167)
 
-# About 
+# About 👩🏻‍💻
 An ambitious senior computer science student who is passionate about app development and UI design. 
 
-# Experience
+# Experience 💻
 
 ## Business Manager Intern @ [Microsoft](https://www.microsoft.com/ar-gulf/)  *(Jan 2022 - Present)*
 
