@@ -17,10 +17,25 @@ An ambitious senior computer science student who is passionate about app develop
 - Redesigned YO2 Platform.
 - Used: Figma
 
-**Fellow at [Arab Youth Centre](https://arabyouthcenter.org/) Fellowship** *(Mar 2021 - August 2021)*
+**Fellow** @ [Arab Youth Centre](https://arabyouthcenter.org/) **Fellowship** *(Mar 2021 - August 2021)*
 - Designed the UI of a bill managament & payment.
 - Redesigned YO2 Platform.
 - Used: Figma
+
+**Tutor** @ [UAEU Tutorial Center](https://www.uaeu.ac.ae/en/university_college/sasp/learningcenters/tutorial.shtml) *(Jun 2020 - Nov 2020)*
+- Tutored for 25+ hours of online tutoring of scientific and CS-related courses through MS teams.
+
+--------------------------------------------------------------------------------------------------------
+
+### Education 📚
+
+**Undergraduate Computer Science Student** @ [UAEU](https://www.uaeu.ac.ae/en/)  *(Fall 2018 - Summer 2022)*
+- Clubs: Head of CITA designers’ team & Member of CITA club. 
+- Current GPA:  4.0
+
+**High School Student** @ Al Zaydia School
+- Advanced track
+- Final grade: 99%
 
 --------------------------------------------------------------------------------------------------------
 
@@ -41,9 +56,6 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
-
 1. Numbered
 2. List
 
@@ -54,9 +66,6 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sara167/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
