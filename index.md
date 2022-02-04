@@ -41,6 +41,10 @@ An ambitious senior computer science student who is passionate about app develop
 
 ### Activities ⭐
 
+**Volunteer** @  [UAEU](https://www.uaeu.ac.ae/en/)  *(Fall 2019 - Present)*
+- 50+ hours of Volunteering 							               
+-	Volunteered in helping 20+ new students in registration, organizing the national day corner of CIT, organizing students’ registration for ‘future jobs and skills’ lecture, organizing the innovation week entry of visitors, preparing content for CITA club using canva, and others.
+
 **Future of Learning Accelerator Bootcamp Participant** @ [Future of Work Lab](https://www.futureofworklab.co/)  *(Aug 2021 - Sep 2021)*
 - Innovated an idea of work-based opportunities platform with a group of international students. The idea was called [Bawaba](https://www.figma.com/file/0Yy9NHHxWF6M65TtOQuZhj/Bwaba-Prototype?node-id=0%3A1). 
  - Utilized UI skills on creating the website interface using Figma. 
@@ -48,6 +52,11 @@ An ambitious senior computer science student who is passionate about app develop
 **Future Education Digital Challenge Participant** @ [Expo 2020 Italy Pavilion](https://www.italyexpo2020.it/en/the-project/the-italy-pavilion/)  *(Nov 2021)*
 - Participated with team members from Italy and UAE to solve global educational challenges in a 4-week online challenge-based program. 
 - Achieved the top 10 position out of 60 teams. 
+
+[NYUAD](https://nyuad.nyu.edu/en/) **Hackathon for Social Good In The Arab World 2020 Participant**			*(May 2020)*
+-	Our team developed a website using WordPress to sell the work done by people who work on handmade crafts, teach others through courses, and propose initiatives.
+-	Worked on the English version of the logo using blender and provided the content for the website. 
+
 
 ```markdown
 Syntax highlighted code block
