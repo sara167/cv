@@ -15,7 +15,10 @@ An ambitious senior computer science student who is passionate about app develop
 - Redesigned YO2 Platform.
 - Used: Figma
 
-Future of Learning Accelerator Bootcamp Participant @ [Future of Work Lab](https://www.futureofworklab.co/)
+### Activities ⭐
+**Future of Learning Accelerator Bootcamp Participant** @ [Future of Work Lab](https://www.futureofworklab.co/)
+- Innovated an idea of work-based opportunities platform with a group of international students. The idea was called [Bawaba](https://www.figma.com/file/0Yy9NHHxWF6M65TtOQuZhj/Bwaba-Prototype?node-id=0%3A1). 
+ - Utilized UI skills on creating the website interface using Figma. 
 
 
 ```markdown
