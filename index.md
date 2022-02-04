@@ -6,6 +6,8 @@
 ### About 👩🏻‍💻
 An ambitious senior computer science student who is passionate about app development and UI design. 
 
+--------------------------------------------------------------------------------------------------------
+
 ### Experience 💻
 
 **Business Manager Intern** @ [Microsoft](https://www.microsoft.com/ar-gulf/)  *(Jan 2022 - Present)*
@@ -20,12 +22,15 @@ An ambitious senior computer science student who is passionate about app develop
 - Redesigned YO2 Platform.
 - Used: Figma
 
+--------------------------------------------------------------------------------------------------------
+
 ### Activities ⭐
+
 **Future of Learning Accelerator Bootcamp Participant** @ [Future of Work Lab](https://www.futureofworklab.co/)  *(Aug 2021 - Sep 2021)*
 - Innovated an idea of work-based opportunities platform with a group of international students. The idea was called [Bawaba](https://www.figma.com/file/0Yy9NHHxWF6M65TtOQuZhj/Bwaba-Prototype?node-id=0%3A1). 
  - Utilized UI skills on creating the website interface using Figma. 
 
-**•	Future Education Digital Challenge Participant** @ [Expo 2020 Italy Pavilion](https://www.italyexpo2020.it/en/the-project/the-italy-pavilion/)  *(Nov 2021)*
+**Future Education Digital Challenge Participant** @ [Expo 2020 Italy Pavilion](https://www.italyexpo2020.it/en/the-project/the-italy-pavilion/)  *(Nov 2021)*
 - Participated with team members from Italy and UAE to solve global educational challenges in a 4-week online challenge-based program. 
 - Achieved the top 10 position out of 60 teams. 
 
