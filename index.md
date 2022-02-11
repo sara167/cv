@@ -84,6 +84,7 @@ An ambitious senior computer science student who is passionate about app develop
 
 ### Awards 🏅
 
+**University Programming Contest**
 
 ```markdown
 Syntax highlighted code block
