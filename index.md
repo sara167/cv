@@ -57,6 +57,33 @@ An ambitious senior computer science student who is passionate about app develop
 -	Our team developed a website using WordPress to sell the work done by people who work on handmade crafts, teach others through courses, and propose initiatives.
 -	Worked on the English version of the logo using blender and provided the content for the website. 
 
+--------------------------------------------------------------------------------------------------------
+
+### Projects ⛏️
+
+**Emarati Traditional Sayings** Android Game  *(April 2021)*
+- An android app that challenges the player to reorder the traditional sayings.
+- Used Android Studio and Java langauge.
+- The game is available on [Google Play Store](https://play.google.com/store/apps/details?id=com.traditionalsayings.traditionalsayingsgame). 
+
+**chemo**  *(Jan 2021 - Apr 2021)*
+-  An android app that uses AR technology to teach middle-school students about the elements and compounds. 
+-  It allows the students to know more about the properties of the elements, and to explore the different combinations of compounds, in addition to their usages in real life.
+-  Worked on the development process using Unity engine.
+-  Worked with the team members to create 3D models of elements & compounds using Blender.
+-  A video about the app is available on [Youtube](https://www.youtube.com/watch?v=MxNr1OMQIPY).
+
+**Baqala** Java Web Application *(Nov 2020 - Dec 2020)*
+- A web application that is for both: customers & grocery shop owners. 
+- It uses an SQL database to store and retrieve the data.
+- Was developed through NetBeans IDE.
+- Worked on data schema, data retreival, and app functionalities. 
+- A video about the web application is available on [Youtube](https://www.youtube.com/watch?v=tp-2c35fdPA&feature=youtu.be).
+
+--------------------------------------------------------------------------------------------------------
+
+### Awards 🏅
+
 
 ```markdown
 Syntax highlighted code block
@@ -65,17 +92,6 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+ `Code` text
+ ![Image](src)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
