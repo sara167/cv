@@ -61,6 +61,11 @@ An ambitious senior computer science student who is passionate about app develop
 
 ### Projects ⛏️
 
+**Salamaty** *(Aug 2021- May 2022)*
+- An android app that serves bus drivers and parents during the students' school bus journey. 
+- It uses Azure Face API to identify the students and marke their attendance, while the mother gets realtime time updates. 
+- Technologies used: RouteXL API, Google firebase, Azure Face API.
+
 **Emarati Traditional Sayings** Android Game  *(April 2021)*
 - An android app that challenges the player to reorder the traditional sayings.
 - Used Android Studio and Java langauge.
@@ -85,14 +90,19 @@ An ambitious senior computer science student who is passionate about app develop
 ### Awards 🏅
 
 **University Programming Contest**
+- Second place *(Spring 2020)*
+- Third place *(Fall 2019)*
+
+--------------------------------------------------------------------------------------------------------
+
+### Online Courses & Certificates 📋
+- Certified in Azure Fundamentals and Power Platform.
+- 1 Million Arab Coders Initiative - Completed android development track & front end development track.  
+- Courses on business branding, google firebase, technical support fundamentals, data visualization and storytelling, design, agile foundations, usability testing, Arduino, neural networks, design thinking. 
+
+
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
  `Code` text
  ![Image](src)
 ```
