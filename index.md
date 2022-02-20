@@ -97,7 +97,7 @@ An ambitious senior computer science student who is passionate about app develop
 
 ### Online Courses & Certificates 📋
 - Certified in Azure Fundamentals and Power Platform.
-- 1 Million Arab Coders Initiative - Completed android development track & front end development track.  
+- **1 Million Arab Coders Initiative** - Completed android development track & front end development track.  
 - Courses on business branding, google firebase, technical support fundamentals, data visualization and storytelling, design, agile foundations, usability testing, Arduino, neural networks, design thinking. 
 
 
